@@ -1,0 +1,4 @@
+SourceName,Category,Owner,Enabled,RetentionDays,TimeSynchronized,CollectionProcedure,AccessControlled,Notes
+Windows Security Log,Endpoint,IT Operations,Yes,30,Yes,Documented collection procedure,Yes,Example row
+Microsoft Entra Sign-in Logs,Identity,Identity Team,Yes,30,Yes,Documented export procedure,Yes,Example row
+Firewall Logs,Network,Network Team,No,0,Yes,,Yes,Example gap
